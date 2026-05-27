@@ -14,10 +14,10 @@ nav_order: 1
 ## Why Should I Care?
 <img src="images/phone-listening-to-me2-sm.png" style="float:right;width:350px;margin:10px;" alt="decorative">
 
-- Has something like this happened to you or someone you know? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “South Pole expidition” advertisments showing up as you browse the web… And you didn’t Google anything about the South Pole. So what’s happening here? We will discuss how this really happens and how you can stop it. Spoiler alert: the microphone on your smartphone is NOT lisenting to you.
-- Have you ever had someone hack into one of your online accounts? If so you've been Pwned. There are some straight foward solution to this problem that we will review in the workshop.
-- Ad Blockers
-- Harper a free, and privaicy first Grammarly alternative
+- **Is Your Phone Listening:** Has something like this happened to you or someone you know? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “South Pole expidition” advertisments showing up as you browse the web… And you didn’t Google anything about the South Pole. So what’s happening here? We will discuss how this really happens and how you can stop it. Spoiler alert: the microphone on your smartphone is NOT lisenting to you.
+- **Hacked Account:** Have you ever had someone hack into one of your online accounts? If so you've been Pwned. There are some straight foward solution to this problem that we will review in the workshop.
+- **Ads Cluttering & Slowing Down Your Browser**: Ad Blockers...
+- **Privacy First Spell & Grammar Checking:** Harper is a free, and privaicy first Grammarly alternative that runs in your laptop browser and does not use and cloud based servers to help you with your spelling and grammar in your web browser.
 
 ## Learning objectives - UPDATE FOR THE NEW TOOL
 
