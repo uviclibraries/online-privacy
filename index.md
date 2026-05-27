@@ -4,17 +4,19 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/phone-listen-logo.png" style="float:right;width:180px;" alt="decorative">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Is Your Smartphone Listening to You? How Data Brokers Sell Your Digital Footprint & How to Stop It
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 0 min 
+- Introductory presentation: 20 min
+- Hands-on activities: 30-50 min
 
 ## Why TOOL NAME HERE? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Has this happened to you or someone you know? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “sponsored” post on your feed… And you didn’t Google anything about the South Pole. So what’s happening here? Is your phone listening to you?
+
+The Short answer is No. While it feels like your phone must be eavesdropping, the reality is often more complex (and arguably more impressive) than simple audio recording. Here is the “behind the scenes” look at the digital trail that creates that uncanny “listening” effect.
 
 [Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
 
