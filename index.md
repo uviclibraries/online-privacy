@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/phone-listen-logo.png" style="float:right;width:180px;" alt="decorative">
+<img src="images/phone-listen-logo.png" style="float:right;width:220px;" alt="decorative">
 
 # Is Your Smartphone Listening to You? How Data Brokers Sell Your Digital Footprint & How to Stop It
 
@@ -14,6 +14,10 @@ nav_order: 1
 ## Why Should I Care?
 
 Has this happened to you or someone you know? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “sponsored” post on your feed… And you didn’t Google anything about the South Pole. So what’s happening here? Is your phone listening to you?
+
+The Short answer is No. While it feels like your phone must be eavesdropping, the reality is often more complex (and arguably more impressive) than simple audio recording. 
+
+Here is the “behind the scenes” look at the digital trail that creates that uncanny “listening” effect.
 
 
 (https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
