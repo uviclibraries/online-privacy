@@ -23,8 +23,7 @@ nav_order: 1
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-3. **MORE OBJECTIVES**
-4. [Wikipedia](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+1. Describe to a friend how whle it might appear that their smartphone is listening to them, it's really a combination web browser tracking techniques that online advertisers and data brokers use.
+2. 
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
