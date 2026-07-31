@@ -1,15 +1,19 @@
 ---
 layout: default
-title: 1-First Activity
+title: 1-Disable App Tracking 
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
 
-# Keychain Activity 
+# Kill the “Social Graph” (App Tracking)
 
-If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+In this activity, you'll reduce the amount of information that apps can collect about you by disabling cross-app tracking. This helps limit the creation of a detailed advertising profile and makes it harder for companies to connect your activity across different apps.
+
+If you have any questions or get stuck, please ask the instructor for assistance.
+
+
 
 1. If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 <img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
