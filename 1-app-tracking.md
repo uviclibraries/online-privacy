@@ -49,17 +49,13 @@ Many popular apps collect information about your activity and share it with adve
 
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
 
+## Discussion
 
+After completing this activity, consider the following questions:
 
+---
 
-
-
-
-
-
-
-
-
+Congratulations! You've taken an important step toward protecting your digital privacy.
 
 
 
@@ -71,12 +67,6 @@ This makes it significantly more difficult for advertisers and data brokers to l
     <div id="gif1">
     <img src="images/tinkercad-keychain-04.gif">
     </div>
-
-
-
-
-
-
 
 <script>  
 
