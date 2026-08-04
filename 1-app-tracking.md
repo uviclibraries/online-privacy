@@ -80,4 +80,4 @@ Congratulations! You've taken an important step toward protecting your digital p
     }
 </script>
 
-[NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
+[NEXT STEP: Downloading Shielded Browser](2-shielded-browser.html){: .btn .btn-blue }
