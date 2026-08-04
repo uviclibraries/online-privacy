@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
 
-# Kill the “Social Graph” (App Tracking)
+# Activity 1: Kill the “Social Graph” (App Tracking)
 
 In this activity, you'll reduce the amount of information that apps can collect about you by disabling cross-app tracking. This helps limit the creation of a detailed advertising profile and makes it harder for companies to connect your activity across different apps.
 
