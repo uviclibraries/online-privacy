@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
+<img src="images/2-shielded-browser-logo.png" style="float:right;width:200px;height:200px;" alt="browser fingerprinting"> 
 
 # Activity 2: Switch to a "Shielded" Browser
 
@@ -20,8 +20,8 @@ If you have any questions or get stuck, please ask the instructor for assistance
 - Download and install your preferred browser.
 
 ### Must-Have Extensions 
-
-- Install a tracker-blocking extension such as [**uBlock Origin**](https://ublockorigin.com/){:target="_blank"} or [**Privacy Badger**](https://privacybadger.org/){:target="_blank"}
+<img src="images/2-shielded-browser-1.png" style="float:right;width:200px;height:200px;" alt="ad blockers comic"> 
+- Install an ad blocker extension such as [**uBlock Origin**](https://ublockorigin.com/){:target="_blank"} or [**Privacy Badger**](https://privacybadger.org/){:target="_blank"}
 - Install the extension by following the on-screen instructions.
 
 These tools block “trackers” from loading at all, which not only protects your data but also makes your web pages load significantly faster
