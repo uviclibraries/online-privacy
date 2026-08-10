@@ -19,7 +19,7 @@ Many popular apps collect information about your activity and share it with adve
 
 ---
 
-#### iPhone
+### iPhone
 
 1. Open the **Settings** app.
    
@@ -35,7 +35,7 @@ Many popular apps collect information about your activity and share it with adve
 6. This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 
 
-#### Android
+### Android
 
 1. Open the **Settings** app.
 
