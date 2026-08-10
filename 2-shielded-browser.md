@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/2-shielded-browser-logo.png" style="float:right;width:200px;height:200px;" alt="browser fingerprinting"> 
+<img src="images/2-shielded-browser-logo.png" style="float:right;" alt="browser fingerprinting"> 
 
 # Activity 2: Switch to a "Shielded" Browser
 
