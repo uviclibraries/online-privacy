@@ -13,13 +13,13 @@ In this activity, you'll reduce the amount of information that apps can collect 
 
 If you have any questions or get stuck, please ask the instructor for assistance.
 
-## Why are we doing this?
+### Why are we doing this?
 
 Many popular apps collect information about your activity and share it with advertising networks. Turning off app tracking reduces this data sharing and helps protect your privacy.
 
 ---
 
-### iPhone
+#### iPhone
 
 1. Open the **Settings** app.
    
@@ -35,7 +35,7 @@ Many popular apps collect information about your activity and share it with adve
 6. This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 
 
-### Android
+#### Android
 
 1. Open the **Settings** app.
 
@@ -49,7 +49,7 @@ Many popular apps collect information about your activity and share it with adve
 
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
 
-## Discussion
+### Discussion
 
 After completing this activity, consider the following questions:
 
