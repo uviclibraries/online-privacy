@@ -32,7 +32,7 @@ Many popular apps collect information about your activity and share it with adve
 
 5. Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:
 
-   <img src="images/1-app-tracking-3.jpg" style="float:right;width:220px;" alt="toggle off"> 
+   <img src="images/1-app-tracking-3.jpg" style="width:220px;" alt="toggle off"> 
 
 6. This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 
@@ -55,15 +55,14 @@ This makes it significantly more difficult for advertisers and data brokers to l
 
 After completing this activity, consider the following questions:
 
+   - Were you surprised this setting was enabled?
+   - How many apps on your phone requested permission to track you?
+   - Why might advertisers want to connect your activity across multiple apps?
+
+
 ---
 
 Congratulations! You've taken an important step toward protecting your digital privacy.
-
-
-
-
-<img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
-
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
