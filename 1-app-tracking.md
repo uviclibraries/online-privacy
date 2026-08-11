@@ -22,12 +22,14 @@ Many popular apps collect information about your activity and share it with adve
 ### iPhone
 
 1. Open the **Settings** app. 
-<img src="images/1-app-tracking-1.jpg" style="width:200px;" alt="privacy and security"> 
+
+   <img src="images/1-app-tracking-1.jpg" style="width:200px;" alt="privacy and security"> 
    
 3. Scroll down and tap **Privacy & Security**.
 
 4. Tap **Tracking**.
-<img src="images/1-app-tracking-2.jpg" style="width:200px;" alt="tracking"> 
+
+   <img src="images/1-app-tracking-2.jpg" style="width:200px;" alt="tracking"> 
 
 5. Toggle off **Allow Apps to Request to Track**. Your screen should look like the to the right.
 <img src="images/1-app-tracking-3.jpg" style="float:right;width:200px;" alt="toggle off"> 
