@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
+<img src="images/4-data-brokers-logo.png" style="float:right;width:250px;" alt="data brokers"> 
 
 # Activity 4: Evict Yourself from Data Broker Databases
 
