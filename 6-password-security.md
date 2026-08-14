@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/6-password-security-logo.png" style="float:right;width:250px;" alt="password security">
+<img src="images/6-password-security-logo.png" style="float:right;width:300px;" alt="password security">
 
 # Activity 6: Strengthen Your Passwords
 
