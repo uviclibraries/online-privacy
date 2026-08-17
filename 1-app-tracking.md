@@ -64,21 +64,4 @@ After completing this activity, consider the following questions:
 
 Congratulations! You've taken an important step toward protecting your digital privacy.
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-    <img src="images/tinkercad-keychain-04.gif">
-    </div>
-
-<script>  
-
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
-
 [NEXT STEP: Downloading Shielded Browser](2-shielded-browser.html){: .btn .btn-blue }
