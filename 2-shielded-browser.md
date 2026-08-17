@@ -83,4 +83,4 @@ Now let's see what your new privacy tool is actually doing.
 
 These tools block “trackers” from loading at all, which not only protects your data but also makes your web pages load significantly faster
 
-[NEXT STEP: Downloading Shielded Browser](2-shielded-browser.html){: .btn .btn-blue }
+[NEXT STEP: Privacy-First Search Engine](3-privacy-search-engine.html){: .btn .btn-blue }
