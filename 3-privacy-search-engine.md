@@ -24,13 +24,13 @@ Here are some privacy focused search engine alternatives:
 1. Open your preferred browser.
 2. Open the browser's **Settings**.
 3. Find the **Search engine** settings.
-   <img src="images/3-privacy-search-engine-3.png" style="float:right;width:300px;" alt="search engine"> 
+   <img src="images/3-privacy-search-engine-3.png" style="float:right;width:200px;" alt="search engine"> 
 
-5. Locate the setting for your **default search engine**.
-   <img src="images/3-privacy-search-engine-5.png" style="float:right;width:300px;" alt="change engine"> 
+5. In the Search Engine box, click **Change**.
+   <img src="images/3-privacy-search-engine-5.png" style="width:400px;" alt="change engine"> 
 
 7. Change your default search engine. In this example, we have changed it to **DuckDuckGo**.
- <img src="images/3-privacy-search-engine-4.png" style="float:right;width:300px;" alt="save changes"> 
+ <img src="images/3-privacy-search-engine-4.png" style="float:right;width:400px;" alt="save changes"> 
     ![Search engine settings](images/privacy-search-02.png)
 
 8. Your searches will now use DuckDuckGo instead of your previous default search engine.
