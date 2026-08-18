@@ -21,27 +21,27 @@ Here are some privacy focused search engine alternatives:
  
 ### Changing Default Search Engine
 
-1. Open your preferred browser.
-2. Open the browser's **Settings**.
-3. Find the **Search engine** settings.
+1. Open your preferred browser <img src="images/3-privacy-search-engine-3.png" style="float:right;width:200px;" alt="search engine"> 
+2. Open the browser's **Settings**
+3. Find the **Search engine** settings
    <img src="images/3-privacy-search-engine-3.png" style="float:right;width:200px;" alt="search engine"> 
 
-5. In the Search Engine box, click **Change**.
+5. In the Search Engine box, click **Change**
    <img src="images/3-privacy-search-engine-5.png" style="width:400px;" alt="change engine"> 
 
-7. Change your default search engine. In this example, we have changed it to **DuckDuckGo**.
- <img src="images/3-privacy-search-engine-4.png" style="float:right;width:400px;" alt="save changes"> 
+7. Select a Search Engine and click **Set as Default** (In this example, we have set it to **DuckDuckGo**)
+ <img src="images/3-privacy-search-engine-4.png" style="width:350px;" alt="save changes"> 
     ![Search engine settings](images/privacy-search-02.png)
 
-8. Your searches will now use DuckDuckGo instead of your previous default search engine.
+8. Your searches will now use DuckDuckGo instead of your previous default search engine
 
-9. Open a new browser tab and enter a search into the address bar.
+9. Open a new browser tab and enter a search into the address bar
 
-10. Search for something you are interested in, such as a movie, recipe, or hobby.
+10. Search for something you are interested in, such as a movie, recipe, or hobby
 
-11. Look through the search results.
+11. Look through the search results
 
-12. Try another search using the same topic.
+12. Try another search using the same topic
 
 ### Think about it
 
