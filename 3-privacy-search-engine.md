@@ -24,7 +24,6 @@ Here are some privacy focused search engine alternatives:
 1. Open your preferred browser <img src="images/3-privacy-search-engine-3.png" style="float:right;width:200px;" alt="search engine"> 
 2. Open the browser's **Settings**
 3. Find the **Search engine** settings
-   <img src="images/3-privacy-search-engine-3.png" style="float:right;width:200px;" alt="search engine"> 
 
 5. In the Search Engine box, click **Change**
    <img src="images/3-privacy-search-engine-5.png" style="width:400px;" alt="change engine"> 
