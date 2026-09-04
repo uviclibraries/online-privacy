@@ -22,11 +22,11 @@ Many popular apps collect information about your activity and share it with adve
 iPhone
 {: .label .label-step}
 - Open the **Settings** app.
-- Scroll down and tap **Privacy & Security**.
+- Scroll down and tap **Privacy & Security**.<br>
    <img src="images/1-app-tracking-1.jpg" style="width:220px;" alt="privacy and security"> 
-- Tap **Tracking**.
+- Tap **Tracking**.<br>
    <img src="images/1-app-tracking-2.jpg" style="width:220px;" alt="tracking"> 
-- Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:
+- Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:<br>
    <img src="images/1-app-tracking-3.jpg" style="width:220px;" alt="toggle off"> 
 - This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
 {: .step}
