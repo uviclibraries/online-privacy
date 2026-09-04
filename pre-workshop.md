@@ -3,6 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
+# UNDER CONSTRUCTION
 ## UPDATE BELOW: Pre-Workshop Videos & Activities
 This workshop is primarily hands-on with.... To participate fully please do the following **before the workshop**:
 
