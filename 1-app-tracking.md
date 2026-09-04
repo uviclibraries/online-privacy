@@ -19,46 +19,37 @@ Many popular apps collect information about your activity and share it with adve
 
 ---
 
-### iPhone
-
-1. Open the **Settings** app. 
-3. Scroll down and tap **Privacy & Security**.
-
+iPhone
+{: .label .label-step}
+- Open the **Settings** app.
+- Scroll down and tap **Privacy & Security**.
    <img src="images/1-app-tracking-1.jpg" style="width:220px;" alt="privacy and security"> 
-   
-4. Tap **Tracking**.
-
+- Tap **Tracking**.
    <img src="images/1-app-tracking-2.jpg" style="width:220px;" alt="tracking"> 
-
-5. Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:
-
+- Toggle off **Allow Apps to Request to Track**. Your screen should look like the image below:
    <img src="images/1-app-tracking-3.jpg" style="width:220px;" alt="toggle off"> 
+- This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
+{: .step}
 
-6. This prevents apps from accessing your device's unique Advertising ID (IDFA), making it much more difficult for advertisers to track your activity across different apps and websites.
-
-
-### Android
-
-1. Open the **Settings** app.
-
-2. Tap **Privacy**
-
-3. Select **Ads**
-
-4. Tap **Delete Advertising ID**.
-
-5. Confirm that you want to delete your Advertising ID
+Android
+{: .label .label-step}
+- Open the **Settings** app.
+- Tap **Privacy**
+- Select **Ads**
+- Tap **Delete Advertising ID**.
+- Confirm that you want to delete your Advertising ID
 
 This makes it significantly more difficult for advertisers and data brokers to link your activity across different apps.
+{: .step}
 
-### Discussion
-
+Discussion
+{: .label .label-step}
 After completing this activity, consider the following questions:
 
    - Were you surprised this setting was enabled?
    - How many apps on your phone requested permission to track you?
    - Why might advertisers want to connect your activity across multiple apps?
-
+{: .step}
 
 ---
 
